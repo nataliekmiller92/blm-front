@@ -1,0 +1,93 @@
+.Timeline__Wrapper {
+    color: #fff;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.Timeline__TimelineWrapper {
+    padding: 1rem 0;
+}
+.Timeline__FocusImage {
+    display: flex;
+    justify-content: center;
+}
+.Timeline__FocusImage img {
+    width: 400px;
+}
+.Timeline__Timeline {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    border-bottom: 3px solid #fff;
+}
+.Timeline__TimelinePosition {
+    min-width: 12px;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: #fff;
+    border: 1px solid #fff;
+    margin-left:1rem;
+}
+.Timeline__TimelinePosition--active {
+    width: 10px;
+    height: 10px;
+    min-width: 10px;
+    border: 4px solid #FF4645;
+}
+.Timeline__TimelineDates {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 0 3rem;
+}
+.Timeline__PreviewDates {
+    display: flex;
+    justify-content: space-between;
+    width: 140px;
+}
+.Timeline__FocusDates {
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+}
+.Timeline__PreviewDate {
+    transform: rotate(-90deg);
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+.Timeline__FocusDate {
+    transform: rotate(-90deg);
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+.Timeline__Content {
+    max-width: 550px;
+    margin: 0 auto;
+}
+.Timeline__EventTitle {
+    font-family: 'Timmons NY', sans-serif;
+    font-size: 60px;
+    letter-spacing: 2px;
+}
+.Timeline__Controls {
+    display: flex;
+    align-items: center;
+}
+.Timeline__EventDesc {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    line-height: 22px;
+    color: #bfbfbf;
+}
+.Timeline__BackArrow {
+    margin: 0 2rem;
+}
+.Timeline__NextArrow {
+    transform: rotate(180deg);
+    margin: 0 2rem;
+}
