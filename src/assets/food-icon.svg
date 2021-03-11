@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="20.246" viewBox="0 0 25 20.246">
+  <g id="Group_24" data-name="Group 24" transform="translate(-661 -1458.754)">
+    <g id="Group_23" data-name="Group 23" transform="translate(18)">
+      <g id="Rectangle_22" data-name="Rectangle 22" transform="translate(660 1470)" fill="none" stroke="#a6a6a6" stroke-width="1">
+        <rect width="4" height="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="3" height="7" fill="none"/>
+      </g>
+      <g id="Rectangle_21" data-name="Rectangle 21" transform="translate(656 1460)" stroke="#a6a6a6" stroke-width="1">
+        <path d="M2,0h8a2,2,0,0,1,2,2V6a6,6,0,0,1-6,6H6A6,6,0,0,1,0,6V2A2,2,0,0,1,2,0Z" stroke="none"/>
+        <path d="M2,.5h8A1.5,1.5,0,0,1,11.5,2V6A5.5,5.5,0,0,1,6,11.5H6A5.5,5.5,0,0,1,.5,6V2A1.5,1.5,0,0,1,2,.5Z" fill="none"/>
+      </g>
+      <path id="Path_8" data-name="Path 8" d="M656.83,1476h10" transform="translate(0 2)" fill="none" stroke="#a6a6a6" stroke-linecap="round" stroke-width="1"/>
+    </g>
+    <g id="Group_22" data-name="Group 22" transform="translate(-12 1)">
+      <g id="Rectangle_23" data-name="Rectangle 23" transform="translate(676 1467)" fill="none" stroke="#a6a6a6" stroke-width="1">
+        <rect width="2" height="11" rx="1" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1" height="10" rx="0.5" fill="none"/>
+      </g>
+      <g id="Group_21" data-name="Group 21" transform="translate(-0.149)">
+        <path id="Path_9" data-name="Path 9" d="M328,1479.012h6.907" transform="translate(2153.16 1130.254) rotate(90)" fill="none" stroke="#a6a6a6" stroke-linecap="round" stroke-width="1"/>
+        <path id="Path_10" data-name="Path 10" d="M328,1479.012h6.907" transform="translate(2155.16 1130.254) rotate(90)" fill="none" stroke="#a6a6a6" stroke-linecap="round" stroke-width="1"/>
+        <path id="Path_11" data-name="Path 11" d="M328,1479.012h6.907" transform="translate(2157.16 1130.254) rotate(90)" fill="none" stroke="#a6a6a6" stroke-linecap="round" stroke-width="1"/>
+        <path id="Path_12" data-name="Path 12" d="M328,1479.012h6.907" transform="translate(2159.16 1130.254) rotate(90)" fill="none" stroke="#a6a6a6" stroke-linecap="round" stroke-width="1"/>
+      </g>
+      <g id="Rectangle_24" data-name="Rectangle 24" transform="translate(673 1465)" stroke="#a6a6a6" stroke-width="1">
+        <path d="M1,0H7A1,1,0,0,1,8,1V1A2,2,0,0,1,6,3H2A2,2,0,0,1,0,1V1A1,1,0,0,1,1,0Z" stroke="none"/>
+        <path d="M1,.5H7a.5.5,0,0,1,.5.5V1A1.5,1.5,0,0,1,6,2.5H2A1.5,1.5,0,0,1,.5,1V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
