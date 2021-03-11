@@ -1,0 +1,40 @@
+
+.Business__BusinessImg {
+    max-width: 400px;
+    padding: 0 20px;
+}
+.Business__BusinessPreview {
+    display: flex;
+    align-items: center;
+    padding: 100px 0;
+}
+.Business__BusinessPreview h1 {
+    font-size: 27px;
+    margin: 0;
+}
+.Business__BusinessAttrs {
+    display: flex;
+    font-size: 20px;
+    color: #a6a6a6;
+}
+.Business__BusinessAttr{
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+.Business__BusinessIcon {
+    margin-right: 10px;
+}
+.Business__BusinessContent {
+    padding: 0 40px;
+    max-width: 470px;
+}
+.Business__BusinessContent p {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    line-height: 22px;
+    color: #bfbfbf;
+}
+.Business__BusinessPreview:nth-child(even) {
+    flex-direction: row-reverse;
+}

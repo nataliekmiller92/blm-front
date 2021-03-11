@@ -1,0 +1,40 @@
+.Footer__Background {
+    width: 100%;
+    margin: 0 auto;
+    background: #121212;
+    padding: 60px 0;
+}
+.Footer__Wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.Footer__Copyright {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 10px;
+}
+.Footer__Group {
+    display: flex;
+    padding-bottom: 40px;
+}
+.Footer__Links {
+    list-style-type: none;
+    margin: 0;
+}
+.Footer__Links li {
+    padding-bottom: 16px;
+    padding-right: 20px;
+    /* padding: 8px 10px; */
+}
+.Footer__Social {
+    display: flex;
+}
+.Footer__SocialIcon {
+    height: 24px;
+    padding: 0 15px;
+}
+.Footer__Row {
+    display: flex;
+    justify-content: space-between;
+}

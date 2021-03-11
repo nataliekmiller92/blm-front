@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'Timmons NY';
+  src: local('Timmons NY'), url('./fonts/Timmons_NY_Timmons_NY.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Crimson Text';
+  src: local('Crimson Text'), url('./fonts/CrimsonText-Regular.ttf') format('ttf');
+}

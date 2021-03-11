@@ -1,0 +1,48 @@
+.Main__DonateCaption {
+    font-family: 'Helvetica Neue', sans-serif;
+    color: #bfbfbf;
+    font-size: 27px;
+    line-height: 32px;
+    max-width: 571px;
+}
+.Main__DonateText {
+    display: relative;
+    padding-top: 100px;
+}
+.Main__DonateTextText {
+    position: absolute;
+    right: 0;
+}
+.Main__DonateSection {
+    padding: 300px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.Main__DonateImgSection {
+    position: relative;
+    height: 676px;
+    width: 414px;
+}
+.Main__DonateImgImg {
+    width: 100%;
+    height: 100%;
+}
+.Main__DonateImgSection .Main__DonateImgImg {
+    position: absolute;
+    right: 40px;
+}
+.Main__DonateContent {
+    display: flex;
+    flex-direction: column;
+}
+.Main__DonateButtonGroup {
+    display: flex;
+    align-items: center;
+    padding-top: 230px;
+}
+.Main__DonateButtonMargin {
+    margin-right: 20px;
+}
