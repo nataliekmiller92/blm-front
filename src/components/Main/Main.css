@@ -1,0 +1,137 @@
+.Main {
+    color: #fff;
+    /* max-width: 1200px; */
+    margin: 0 auto;
+    /* flex-direction: column;
+    align-items: center; */
+}
+.Main__Header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2rem auto;
+    font-family: 'Timmons NY', sans-serif;
+    letter-spacing: 5px;
+    max-width: 1200px;
+}
+.Main__HeaderLg {
+    font-size: 261px;
+    margin-right: 2rem;
+}
+.Main__HeaderSm {
+    font-size: 122px;
+    line-height: 103px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    margin-right: 2rem;
+}
+.Main__HeaderLg--red {
+    background: #FF4645;
+    padding: 0 1.5rem;
+}
+.Main__BannerImages {
+    margin: 0 auto;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    max-width: 1200px;
+}
+.Main__BannerImgLg {
+    width: 736px;
+    margin-right: 2rem;
+}
+.Main__CalloutWrapper {
+    padding: 280px 0;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.Main__BannerText {
+    font-family: 'Crimson Text', serif;
+    font-size: 14px;
+    max-width: 736px;
+    margin-top: 0.6rem;
+}
+.Main__CalloutText {
+    font-family: 'Timmons NY', sans-serif;
+    font-size: 148px;
+    line-height: 148px;
+}
+.Main__CalloutText--red {
+    background: #FF4645;
+    padding: 0 1rem;
+}
+.Main__FocusWrapper {
+    padding: 200px 0;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.Main__FocusPoint {
+    display: flex;
+    align-items: center;
+    padding: 120px 0;
+}
+.Main__FocusPointHeader {
+    font-family: 'Timmons NY', sans-serif;
+    font-size: 204px;
+    line-height: 204px;
+}
+.Main__FocusImg {
+    max-width: 600px;
+    padding: 0 20px;
+}
+.Main__PaddingRight20 {
+    padding-right: 40px;
+}
+.Main__FocusContent {
+    padding: 0 40px;
+}
+.Main__FocusContent p {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    line-height: 22px;
+    color: #bfbfbf;
+}
+.Main__FocusGraphLabel {
+    font-family: 'Crimson Text', serif;
+    font-size: 17px;
+    padding: 10px 64px;
+}
+.Main__FocusGraphCitationWrapper {
+    padding-top: 10px;
+    max-width: 1200px;
+}
+.Main__FocusGraphCitation {
+    font-family: 'Helvetica Neue', sans-serif;
+    color: #bfbfbf;
+    font-size: 12px;
+    padding-left: 64px;
+}
+
+.Main__BusinessesWrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.Main__BusinessesHeader {
+    font-family: 'Timmons NY', sans-serif;
+    font-size: 187px;
+    padding: 40px 20px;
+}
+
+
+.Main__DonateWrapper {
+    padding: 200px 0;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.Main__DonateHeaderMain {
+    font-family: 'Timmons NY', sans-serif;
+    font-size: 187px;
+}
+.Main__DonateHeader {
+    font-family: 'Timmons NY', sans-serif;
+    font-size: 187px;
+    z-index: 100;
+    width: 1000px;
+    position: absolute;
+}
